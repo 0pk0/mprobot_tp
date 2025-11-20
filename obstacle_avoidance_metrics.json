@@ -1,0 +1,12 @@
+{
+  "avg_error": 0.1938746114332404,
+  "max_error": 0.4373215298699526,
+  "min_error": 0.0,
+  "std_error": 0.11672207049971935,
+  "goal_error": 0.09960792270520842,
+  "completion_time": 30.300000000000296,
+  "actual_path_length": 5.240500000000008,
+  "planned_path_length": 4.553596155865305,
+  "Min Obstacle Clearance": 0.33336318392781555,
+  "Collision Free": 1.0
+}
