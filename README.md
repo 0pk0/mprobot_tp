@@ -1,4 +1,4 @@
-# 🤖 Robotics Assignment: Path Smoothing and Trajectory Tracking
+# Path Smoothing and Trajectory Tracking
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-Educational-green.svg)
@@ -20,12 +20,12 @@ The implementation uses a simulated TurtleBot3 Burger robot model and visualizes
 
 ### Key Features
 
-✅ **Pure Python implementation** - No external robotics frameworks required  
-✅ **Comprehensive testing** - 35+ unit and integration tests  
-✅ **Real-time visualization** - Animated path tracking with matplotlib  
-✅ **Multiple scenarios** - Straight line, curved path, sharp turn, obstacle avoidance  
-✅ **Hybrid control** - Pure Pursuit + DWA for optimal performance  
-✅ **Well documented** - Extensive code comments and algorithmic explanations
+ **Pure Python implementation** - No external robotics frameworks required  
+ **Comprehensive testing** - 35+ unit and integration tests  
+ **Real-time visualization** - Animated path tracking with matplotlib  
+ **Multiple scenarios** - Straight line, curved path, sharp turn, obstacle avoidance  
+ **Hybrid control** - Pure Pursuit + DWA for optimal performance  
+ **Well documented** - Extensive code comments and algorithmic explanations
 
 ## Table of Contents
 
@@ -496,14 +496,13 @@ This project is for educational purposes as part of a robotics assignment.
 
 ## Author
 
-Developed for Robotics Assignment: Path Smoothing and Trajectory Tracking
+Praveen Kathirvel
+realaxelvladeyt@gmail.com
 
 ---
 
 <div align="center">
 
 **⭐ If you found this helpful, please star this repository! ⭐**
-
-Made with ❤️ and 🤖 Python | 📧 For questions, please refer to code comments and test cases
 
 </div>
