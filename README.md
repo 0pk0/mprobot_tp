@@ -14,18 +14,18 @@ This project implements a complete differential drive robot trajectory tracking 
 1. **Path Smoothing**: Transforms discrete waypoints into smooth continuous paths using cubic spline interpolation
 2. **Trajectory Generation**: Creates time-parameterized trajectories with constant velocity profiles
 3. **Trajectory Tracking**: Implements the Pure Pursuit algorithm for accurate path following
-4. **Obstacle Avoidance** ⭐ **BONUS**: Dynamic Window Approach (DWA) for collision-free navigation
+4. **Obstacle Avoidance**: Dynamic Window Approach (DWA) for collision-free navigation
 
 The implementation uses a simulated TurtleBot3 Burger robot model and visualizes results using matplotlib animations.
 
 ### Key Features
 
-✅ **Pure Python implementation** - No external robotics frameworks required  
-✅ **Comprehensive testing** - 35+ unit and integration tests  
-✅ **Real-time visualization** - Animated path tracking with matplotlib  
-✅ **Multiple scenarios** - Straight line, curved path, sharp turn, obstacle avoidance  
-✅ **Hybrid control** - Pure Pursuit + DWA for optimal performance  
-✅ **Well documented** - Extensive code comments and algorithmic explanations
+ **Pure Python implementation** - No external robotics frameworks required  
+ **Comprehensive testing** - 35+ unit and integration tests  
+ **Real-time visualization** - Animated path tracking with matplotlib  
+ **Multiple scenarios** - Straight line, curved path, sharp turn, obstacle avoidance  
+ **Hybrid control** - Pure Pursuit + DWA for optimal performance  
+ **Well documented** - Extensive code comments and algorithmic explanations
 
 ## Table of Contents
 
@@ -490,20 +490,10 @@ This project was developed with assistance from AI tools:
 4. **Differential Drive**: Siegwart, R. & Nourbakhsh, I. (2004). "Introduction to Autonomous Mobile Robots"
 5. **TurtleBot3**: ROBOTIS e-Manual ([https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/))
 
-## License
-
-This project is for educational purposes as part of a robotics assignment.
-
-## Author
-
-Developed for Robotics Assignment: Path Smoothing and Trajectory Tracking
-
 ---
 
 <div align="center">
 
-**⭐ If you found this helpful, please star this repository! ⭐**
 
-Made with ❤️ and 🤖 Python | 📧 For questions, please refer to code comments and test cases
 
 </div>
