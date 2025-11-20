@@ -1,4 +1,4 @@
-# 🤖 Robotics Assignment: Path Smoothing and Trajectory Tracking
+Path Smoothing and Trajectory Tracking
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-Educational-green.svg)
