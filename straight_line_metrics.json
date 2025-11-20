@@ -1,0 +1,10 @@
+{
+  "avg_error": 0.022610556348061618,
+  "max_error": 0.049999999999999996,
+  "min_error": 0.0,
+  "std_error": 0.01482771635970222,
+  "goal_error": 0.09000000000008157,
+  "completion_time": 35.050000000000146,
+  "actual_path_length": 5.909999999999918,
+  "planned_path_length": 6.0
+}
